@@ -247,10 +247,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Labans-Lab.
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
-
-- **LinkedIn**:[Connect with me professionally]([https://www.linkedin.com/in/laban-kipkoech-61676a21a/])
--**Email address**:[labankipkoech047@gmail.com]
+### Connect with me professionally
+- **LinkedIn**: [https://www.linkedin.com/in/laban-kipkoech-61676a21a/]
+-**Email address**: [labankipkoech047@gmail.com]
 
 
 Thank you for your support, and I look forward to connecting with you!
